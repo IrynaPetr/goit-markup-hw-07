@@ -6,7 +6,7 @@
     }
 }
 
-.work-title {
+.work__title {
   margin-bottom: 50px;
 
   font-size: 36px;
@@ -19,7 +19,7 @@
 
 
 
-.work-item {
+.work__item {
   position: relative;
 
   &:not(:last-child) {
@@ -28,7 +28,7 @@
     }
 }
 
-.work-text {
+.work__text {
   position: absolute;
 
   bottom: 0;

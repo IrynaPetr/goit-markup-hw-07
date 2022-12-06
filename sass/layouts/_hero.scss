@@ -8,12 +8,12 @@
   margin-left: auto;
   margin-right: auto;
 
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero.jpg);
+  background-image: linear-gradient(rgba(47, 58, 55, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero.jpg);
 
 
 }
 
-.title-hero {
+.hero__title {
   margin-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
@@ -28,7 +28,7 @@
   color: var(--color-font-third);
 }
 
-.btn-hero {
+.hero__btn {
   display: inline-block;
   min-width: 200px;
   border-radius: 4px;

@@ -5,6 +5,7 @@
   display: flex;
 
   & .container {
+    align-items: baseline;
       display: flex;
       justify-content: space-between;
     }
@@ -65,7 +66,7 @@
 
 
   margin-bottom: 20px;
-  margin-top: 12px;
+
 }
 
 .invite-container {
@@ -90,7 +91,7 @@
 
 
   margin-bottom: 20px;
-  margin-top: 12px;
+  
  }
 
 .footer-sl {
